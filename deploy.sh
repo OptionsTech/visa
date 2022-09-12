@@ -6,4 +6,7 @@ Deploy deplo
 iDeploment 5 master
 Deploy deployn
 deployment
-deploy to stagiung
+deploy to stagiug evironment
+echo good job
+Tested and accepted
+
